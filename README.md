@@ -1,5 +1,4 @@
 # StowMarines_Interface
-Interface for the StowMarines
 
 The StowMarines Interface is now at a usable state. It is missing lots of features and there are some improvements that need to be made, but it should be usable at the moment.
 
@@ -15,6 +14,6 @@ My avast scans SM Interface each time I boot it, but then states that there are 
 
 Current Version for testing is version 1.0.1 Alpha.
 
-Download here: 
+Download here: https://github.com/StowMarines/StowMarines_Interface/blob/main/StowMarines%20Interface.exe
 
 Feel free to stress test it a fair bit, but remember that I'm mainly looking for bugs at the moment, so if you open ten versions of it and it causes you problems, that's a no brainer at the moment.
