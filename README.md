@@ -1,5 +1,7 @@
 # StowMarines_Interface
 
+## Info
+
 The StowMarines Interface is now at a usable state. It is missing lots of features and there are some improvements that need to be made, but it should be usable at the moment.
 
 To help with tracking, each version that I will send through, has a version title in the top left hand corner of the interface. 
@@ -17,6 +19,15 @@ Current Version for testing is version 1.0.1 Alpha.
 Download here: https://github.com/StowMarines/StowMarines_Interface/raw/main/StowMarines%20Interface.exe
 
 Feel free to stress test it a fair bit, but remember that I'm mainly looking for bugs at the moment, so if you open ten versions of it and it causes you problems, that's a no brainer at the moment.
+
+## Team
+
+Lead Developer/Designer: BJS
+
+Testers:
+- Stotey
+- Corn
+- Marc
 
 ## Issue Template
 
