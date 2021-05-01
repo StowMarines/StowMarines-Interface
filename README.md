@@ -16,7 +16,7 @@ My avast scans SM Interface each time I boot it, but then states that there are 
 
 Current Version for testing is version 1.0.3 Alpha.
 
-Download here: https://github.com/StowMarines/StowMarines_Interface/raw/main/StowMarines%20Interface.exe
+Download here: https://github.com/StowMarines/StowMarines_Interface/raw/main/StowMarines%20Interface%20Installer.exe
 
 Feel free to stress test it a fair bit, but remember that I'm mainly looking for bugs at the moment, so if you open ten versions of it and it causes you problems, that's a no brainer at the moment.
 
