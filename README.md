@@ -26,8 +26,8 @@ Lead Developer/Designer: BJS
 
 Testers:
 - Stotey
-- Corn
 - Marc
+- Corn
 
 ## Issue Template
 
