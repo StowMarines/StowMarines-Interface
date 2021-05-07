@@ -1,0 +1,20 @@
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\bin\Debug\StowMarines Interface.exe.config
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\bin\Debug\StowMarines Interface.exe.manifest
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\bin\Debug\StowMarines Interface.application
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\bin\Debug\StowMarines Interface.exe
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\bin\Debug\StowMarines Interface.pdb
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\bin\Debug\en\StowMarines Interface.resources.dll
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines_Interface.CalendarForm.resources
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines_Interface.FinanceForm.resources
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines_Interface.Form1.resources
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines_Interface.Form2.resources
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines_Interface.Properties.Resources.resources
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines_Interface.Form1.en.resources
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines_Interface.csproj.GenerateResource.cache
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines_Interface.csproj.CoreCompileInputs.cache
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\en\StowMarines Interface.resources.dll
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines Interface.TrustInfo.xml
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines Interface.exe.manifest
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines Interface.application
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines Interface.exe
+C:\Users\razma\Documents\StowMarines_Interface\StowMarines_Interface\StowMarines_Interface\obj\Debug\StowMarines Interface.pdb
