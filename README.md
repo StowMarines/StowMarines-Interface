@@ -6,7 +6,7 @@ The StowMarines Interface is now at a usable state. It is missing lots of featur
 
 To help with tracking, each version that I will send through, has a version title in the top left hand corner of the interface. 
 
-At the moment, I'm just worried about bugs/issues/problems, then I will move onto crucial recommendations then optional recommendations afterwards.
+At the moment, I'm just worried about bugs/issues/problems & crucial recommendations, then I will move onto optional recommendations afterwards.
 
 To see the development tracker that I keep up to date, visit this: https://trello.com/b/Y1lchBxd/stowmarines-interface
 
@@ -16,7 +16,7 @@ My avast scans SM Interface each time I boot it, but then states that there are 
 
 Current Version for testing is version 1.0.3 Alpha.
 
-Download here: https://github.com/StowMarines/StowMarines_Interface/raw/main/StowMarines%20Interface%20Installer.exe
+Download here: https://github.com/StowMarines/StowMarines_Interface/raw/main/Setup.msi
 
 Feel free to stress test it a fair bit, but remember that I'm mainly looking for bugs at the moment, so if you open ten versions of it and it causes you problems, that's a no brainer at the moment.
 
@@ -28,6 +28,8 @@ Testers:
 - Stotey
 - Marc
 - Corn
+- Jronz
+- Springy
 
 ## Issue Template
 
