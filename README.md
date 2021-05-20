@@ -14,7 +14,7 @@ To report a bug/issue/problem you've found, please create a GitHub Issue in this
 
 My avast scans SM Interface each time I boot it, but then states that there are no issues with it. If you use Avast and it keeps scanning, you can add an exception if you are happy to (I have done this for myself and has caused no issues).
 
-Current Version for testing is version 1.0.3 Alpha.
+Current Version for testing is version 1.0.5 Alpha.
 
 Download here: https://github.com/StowMarines/StowMarines_Interface/raw/main/Setup.msi
 
