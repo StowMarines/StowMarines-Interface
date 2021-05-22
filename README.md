@@ -20,6 +20,14 @@ If you use Avast, it will scan it the first time you launch it, after that it sh
 
 Feel free to stress test it a fair bit, but remember that I'm mainly looking for bugs at the moment, so if you open ten versions of it and it causes you problems, that's a no brainer.
 
+## Issue Template
+
+Title: _(Sum your report up in a single sentence)_
+
+Version: _(Can be found in the top left hand corner of the application)_
+
+Bug Details: _(Give as many details as possible)_
+
 ## Team
 
 Lead Developer/Designer: BJS
@@ -34,11 +42,3 @@ Alpha Testers:
 Beta Testers:
 - All Alpha Testers
 - 
-
-## Issue Template
-
-Title: _(Sum your report up in a single sentence)_
-
-Version: _(Can be found in the top left hand corner of the application)_
-
-Bug Details: _(Give as many details as possible)_
