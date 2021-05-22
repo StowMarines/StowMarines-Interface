@@ -11,7 +11,7 @@ At the moment, I am only accepting GitHub issues regarding bugs/issues/problems 
 To see the development tracker that I keep up to date, visit: https://trello.com/b/Y1lchBxd/stowmarines-interface
 To report a bug/issue/problem you've found, please create a GitHub Issue in this repo: https://github.com/StowMarines/StowMarines_Interface/issues
 
-When you download the file, you will get a blue window appear like this: ![image](https://user-images.githubusercontent.com/68105236/119230848-d65c1b80-bb15-11eb-95bd-f69743071758.png)
+When you download the file, you will get a blue window appear like this: ![image](https://user-images.githubusercontent.com/68105236/119230888-0efbf500-bb16-11eb-8fd3-cf72949fc116.png)
 
 Press 'Run Anyway'. If this option is not visible, press the 'MoreInfo' button.
 
