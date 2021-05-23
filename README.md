@@ -15,6 +15,7 @@ To see the development tracker that I keep up to date, visit: https://trello.com
 To report a bug/issue/problem you've found, please create a GitHub Issue in this repo: https://github.com/StowMarines/StowMarines_Interface/issues
 
 When you download the file, you will get a blue window appear. Press 'Run Anyway'. If this option is not visible, press the 'MoreInfo' button: 
+
 ![image](https://user-images.githubusercontent.com/68105236/119230888-0efbf500-bb16-11eb-8fd3-cf72949fc116.png)
 
 If you use Avast, it will scan it the first time you launch it, after that it should cause no issues.
