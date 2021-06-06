@@ -43,4 +43,10 @@ Alpha Testers:
 
 Beta Testers:
 - All Alpha Testers
+- Kenji
+- Drago
+- Matt
+- Rella
+- Halli
+- Marius
 - 
