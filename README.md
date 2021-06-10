@@ -35,6 +35,7 @@ Bug Details: _(Give as many details as possible)_
 ## Team
 
 Lead Developer/Designer: BJS
+
 Artist: Halliwedge
 
 Alpha Testers:
