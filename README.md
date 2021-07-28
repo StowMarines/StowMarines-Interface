@@ -6,7 +6,7 @@ PLEASE ONLY USE THE SOFTWARE HERE IF YOU ARE AN ALPHA OR BETA TESTER. I CANNOT P
 The StowMarines Interface is a replacement for Arma3Sync specifically designed and coded for the StowMarines. It is planned to extend it's features to host elements such as (and not limited to): a unit calendar, staff dashboard, LOA system etc.
 
 ## Download
-https://github.com/StowMarines/StowMarines_Interface/raw/main/StowMarines%20Interface%20Setup.msi
+http://188.165.239.165/StowMarines%20Interface.application
 
 ## Info
 Currently, it is missing some features and there are improvements that need to be made, however it is in a realitively stable state. 
