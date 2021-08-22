@@ -11,8 +11,6 @@ http://188.165.239.165/StowMarines%20Interface.application
 ## Info
 Currently, it is missing some features and there are improvements that need to be made, however it is in a realitively stable state. 
 
-At the moment, I am only accepting GitHub issues regarding bugs/issues/problems & crucial recommendations. Non-crucial reccomendations will be accepted once the program is near completetion for it's initial phase.
-
 To see the development tracker that I keep up to date, visit: https://trello.com/b/Y1lchBxd/stowmarines-interface
 To report a bug/issue/problem you've found, please create a GitHub Issue in this repo: https://github.com/StowMarines/StowMarines_Interface/issues
 
