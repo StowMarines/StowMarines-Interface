@@ -28,9 +28,9 @@ Feel free to stress test it a fair bit, but remember that I'm mainly looking for
 
 Title: _(Sum your report up in a single sentence)_
 
-Version: _(Can be found in the top left hand corner of the application)_
-
 Bug Details: _(Give as many details as possible)_
+
+Logs: _(%appdata% > StowMarines_Interface > Relevant dated zip file and/or logs folder)_
 
 ## Team
 
